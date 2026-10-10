@@ -1,0 +1,17 @@
+account_id,account_name,ticket_id,date,status,subject,body
+globex,Globex Inc,T-101,2026-10-08,open,Dashboard broken after update,"The dashboard has been broken since Tuesday, this is urgent, our team is frustrated."
+globex,Globex Inc,T-102,2026-09-25,open,Export failing for large reports,Exports fail every time. Considering our options.
+globex,Globex Inc,T-103,2026-10-05,open,Thinking about canceling,We are thinking about canceling if this is not fixed. Terrible experience this month.
+globex,Globex Inc,T-104,2026-10-09,open,SSO login loop,Users stuck in a login loop. Please help.
+globex,Globex Inc,T-105,2026-09-20,resolved,Billing question,"Thanks, all sorted."
+globex,Globex Inc,T-106,2026-10-09,open,Renewal question,When does our contract renew? We are evaluating alternatives.
+initech,Initech LLC,T-201,2026-10-06,open,Slow reports,"Reports are very slow lately, team is frustrated."
+initech,Initech LLC,T-202,2026-10-02,open,API rate limits,"Hitting rate limits, need guidance."
+initech,Initech LLC,T-203,2026-09-28,open,Data discrepancy,Numbers do not match our warehouse.
+umbrellacorp,Umbrella Corp,T-301,2026-09-15,open,Nobody is using the tool,We are disappointed with adoption. Thinking of leaving at renewal.
+umbrellacorp,Umbrella Corp,T-302,2026-10-01,open,Champion left the company,"Our admin left, not sure who owns this now."
+hooli,Hooli Systems,T-401,2026-10-07,open,Feature request: SSO,Would love SSO support.
+waynecorp,Wayne Corp,T-501,2026-10-04,open,Core workflow stopped working,"The workflow builder is broken for us, this is urgent."
+waynecorp,Wayne Corp,T-502,2026-09-10,resolved,Onboarding help,"Great session, thanks!"
+acme,Acme Corp,T-601,2026-10-03,resolved,Question about exports,"Thanks, helpful as always."
+wonka,Wonka Labs,T-701,2026-10-05,resolved,Love the new dashboard,The team loves the new dashboard. Excellent work.
